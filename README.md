@@ -29,6 +29,10 @@ Building research systems, workflows, and AI-assisted processes that help teams 
 
 ## Connect
 
-LinkedIn: https://www.linkedin.com/in/subhadranandula/
-Behance: https://www.behance.net/subhadranandula
+LinkedIn
+https://www.linkedin.com/in/subhadranandula/
+
+Behance
+https://www.behance.net/subhadranandula
+
 Portfolio: Coming Soon
