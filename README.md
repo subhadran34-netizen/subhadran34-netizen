@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi, I'm Subhadra 👋
 
-<!--
-**subhadran34-netizen/subhadran34-netizen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+UX Researcher focused on Enterprise Travel, B2B SaaS, and AI-assisted workflows.
 
-Here are some ideas to get you started:
+## Areas of Expertise
+* UX Research
+* Qualitative Research
+* Enterprise Travel
+* Research Analysis & Synthesis
+* UX Writing
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently Exploring
+* AI Agents
+* Research Automation Tools
+* Research Repositories
+* Research Operations
+
+## Professional Focus
+Building research systems, workflows, and AI-assisted processes that help teams make better product decisions through evidence and user insight.
+
+## Domain Experience
+* Corporate Travel
+* Travel Disruption Management
+* Booking & Trip Management
+* Enterprise Platforms
+
+## Location
+📍 Hyderabad, India
+
+## Connect
+
+LinkedIn: https://www.linkedin.com/in/subhadranandula/
+Behance: https://www.behance.net/subhadranandula
+Portfolio: Coming Soon
